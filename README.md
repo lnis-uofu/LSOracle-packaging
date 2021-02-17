@@ -1,1 +1,0 @@
-Packaging information for distribution.
