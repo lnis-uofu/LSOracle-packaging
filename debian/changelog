@@ -1,3 +1,9 @@
+lsoracle (2.0.0) focal; urgency=low
+
+  * Second major release.
+
+ -- Ashton Snelgrove <ashton.snelgrove@utah.edu>  Thu, 29 Jul 2021 15:44:16 -0600
+
 lsoracle (0.1.0) focal; urgency=low
 
   * Initial release.
