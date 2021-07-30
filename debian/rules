@@ -6,4 +6,4 @@ override_dh_auto_configure:
 	dh_auto_configure -- \
 	-D YOSYS_INCLUDE_DIR=/usr/share/yosys/include \
 	-D YOSYS_PLUGIN=ON \
-	-D YOSYS_PLUGIN_DIR=/usr/share/yosys/plugin
+	-D YOSYS_PLUGIN_DIR=/usr/share/yosys/plugins

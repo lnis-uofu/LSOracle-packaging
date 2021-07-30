@@ -15,6 +15,6 @@ Description: Logic synthesis tool
 
 Package: yosys-lsoracle-plugin
 Architecture: amd64
-Depends: lsoracle yosys
+Depends: lsoracle, yosys
 Description: LSOracle plugin for Yosys
   Yosys plugin to run the LSOracle logic synthesis tool as a command.
