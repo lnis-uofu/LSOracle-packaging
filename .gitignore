@@ -1,8 +1,0 @@
-debian/.debhelper/
-debian/debhelper-build-stamp
-debian/files
-debian/lsoracle.substvars
-debian/lsoracle/
-debian/tmp/
-debian/yosys-lsoracle-plugin.substvars
-debian/yosys-lsoracle-plugin/
