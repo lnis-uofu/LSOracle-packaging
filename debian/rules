@@ -6,4 +6,8 @@ override_dh_auto_configure:
 	dh_auto_configure -- \
 	-D YOSYS_INCLUDE_DIR=/usr/share/yosys/include \
 	-D YOSYS_PLUGIN=ON \
-	-D YOSYS_PLUGIN_DIR=/usr/share/yosys/plugins
+	-D YOSYS_PLUGIN_DIR=/usr/share/yosys/plugins \
+	-D KAHYPAR_STATIC=ON \
+	-D LOCAL_BOOST=OFF \
+	-D LOCAL_GTEST=OFF \
+	-D LOCAL_PYBIND=OFF
